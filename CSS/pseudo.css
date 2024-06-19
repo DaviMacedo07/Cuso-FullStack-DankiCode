@@ -23,3 +23,17 @@ html,body{
 .teste1{
     background-color: rgb(50,50,50);
 }
+
+.teste:hover{
+    background-color: orangered;
+    display: inline-block;
+    width: 100px;
+    height: 400px;
+}
+
+.teste1:active{
+    background-color: orangered;
+    display: inline-block;
+    width: 100px;
+    height: 400px;
+}

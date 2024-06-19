@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    padding-bottom: 1000px;
+}
+
+ul{ 
+    list-style-position: inside;
+}
+
+ul li:nth-of-type(2){
+    /*Starts with 1 - 2 - 3 - 4 - 5...*/
+    background-color: red;
+}
+
+div h3:nth-of-type(1) {
+    color: wheat;
+}
