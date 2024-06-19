@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    padding-bottom: 1000px;
+}
+
+.bg{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    top: 150px;
+
+    /* BACKGROUNDs */
+
+    background-image: url('../CSS/Imagens/courtbask.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat:  repeat-x;
+} 
+
+

@@ -1,0 +1,39 @@
+div{
+    height: 50px;
+    background-color: #ccc;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.relative{
+    background-color: #321;
+    position: relative;
+    color: white;
+}
+
+.relative-alternada{
+    top: 20px;
+    left: 20px;
+}
+
+.absolute {
+    position: absolute;
+    height: 25px;
+    width: 100%;
+    background-color: #932;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+ /* bom para menu fixo */
+.fixed{
+   
+    height: 50px;
+    width: 50px;
+    background-color: #234;
+}
+
+
+html{
+    padding-bottom: 1000px;
+}
