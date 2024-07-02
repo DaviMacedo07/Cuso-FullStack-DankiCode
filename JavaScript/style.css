@@ -1,0 +1,17 @@
+.texto h2 span {
+    font-size: 12px;
+    cursor: pointer;
+    color: blue;
+}
+
+.texto p {
+    overflow: hidden;
+    height: 0px;
+    transition: 0s;
+}
+
+.mostrar {
+    height: 200px !important;
+}
+
+
